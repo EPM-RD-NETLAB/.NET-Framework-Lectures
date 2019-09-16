@@ -1,0 +1,7 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.02.C# basic  programming construction blocks\NET.CSharp.02\ArrayApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.02.C# basic  programming construction blocks\NET.CSharp.02\ArrayApplication\bin\Debug\ArrayApplication.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.02.C# basic  programming construction blocks\NET.CSharp.02\ArrayApplication\bin\Debug\ArrayApplication.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.02.C# basic  programming construction blocks\NET.CSharp.02\ArrayApplication\obj\x86\Debug\ArrayApplication.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.02.C# basic  programming construction blocks\NET.CSharp.02\ArrayApplication\obj\x86\Debug\ArrayApplication.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.02_Основные программные конструкции C#\NET.C#.02_Основные программные конструкции C#_DemoFiles\ArrayApplication\obj\x86\Debug\ArrayApplication.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.02_Основные программные конструкции C#\NET.C#.02_Основные программные конструкции C#_DemoFiles\ArrayApplication\obj\x86\Debug\ArrayApplication.pdb

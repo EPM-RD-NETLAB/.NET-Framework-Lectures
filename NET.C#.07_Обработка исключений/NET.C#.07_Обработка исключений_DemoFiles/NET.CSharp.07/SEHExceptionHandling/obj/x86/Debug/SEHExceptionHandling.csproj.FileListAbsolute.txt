@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\SEHExceptionHandling\bin\Debug\SEHExceptionHandling.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\SEHExceptionHandling\bin\Debug\SEHExceptionHandling.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\SEHExceptionHandling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\SEHExceptionHandling\obj\x86\Debug\SEHExceptionHandling.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\SEHExceptionHandling\obj\x86\Debug\SEHExceptionHandling.pdb

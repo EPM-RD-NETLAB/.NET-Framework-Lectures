@@ -1,0 +1,9 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\ExceptionDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\ExceptionDemo\obj\x86\Debug\ExceptionDemo.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\ExceptionDemo\obj\x86\Debug\ExceptionDemo.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.04_Exception handling\NET.CSharp.04\ExceptionDemo\obj\x86\Debug\ExceptionDemo.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.04_Exception handling\NET.CSharp.04\ExceptionDemo\obj\x86\Debug\ExceptionDemo.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.07_Обработка исключений\NET.C#.07_Обработка исключений_DemoFiles\NET.CSharp.07\ExceptionDemo\obj\x86\Debug\ExceptionDemo.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.07_Обработка исключений\NET.C#.07_Обработка исключений_DemoFiles\NET.CSharp.07\ExceptionDemo\obj\x86\Debug\ExceptionDemo.pdb

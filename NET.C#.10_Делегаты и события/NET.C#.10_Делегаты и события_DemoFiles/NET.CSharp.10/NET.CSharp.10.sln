@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesDemo", "DelegatesDemo\DelegatesDemo.csproj", "{C5BACCD2-10F4-4067-AB67-21A06E102415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnominusMethodsAndLambda", "AnominusMethodsAndLambda\AnominusMethodsAndLambda.csproj", "{95904EF1-235F-4737-BD82-DC7CCD282A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDelegate", "AsyncDelegate\AsyncDelegate.csproj", "{D5C3436C-A53A-484F-8256-497095526114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingEventsDemo", "UsingEventsDemo\UsingEventsDemo\UsingEventsDemo.csproj", "{1C7685F7-C9B6-4E62-91FA-9EC8BF0ADC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorkerClass", "BackgroundWorkerClass\BackgroundWorkerClass.csproj", "{8ED5DE46-F284-4961-B5A9-F49C66D29843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplicationBackgroundWorker", "WpfApplication1\WpfApplicationBackgroundWorker.csproj", "{567C3A2D-10A6-4F0C-8738-7B4F6DEE555B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BACCD2-10F4-4067-AB67-21A06E102415}.Debug|x86.ActiveCfg = Debug|x86
+		{C5BACCD2-10F4-4067-AB67-21A06E102415}.Debug|x86.Build.0 = Debug|x86
+		{C5BACCD2-10F4-4067-AB67-21A06E102415}.Release|x86.ActiveCfg = Release|x86
+		{C5BACCD2-10F4-4067-AB67-21A06E102415}.Release|x86.Build.0 = Release|x86
+		{95904EF1-235F-4737-BD82-DC7CCD282A35}.Debug|x86.ActiveCfg = Debug|x86
+		{95904EF1-235F-4737-BD82-DC7CCD282A35}.Debug|x86.Build.0 = Debug|x86
+		{95904EF1-235F-4737-BD82-DC7CCD282A35}.Release|x86.ActiveCfg = Release|x86
+		{95904EF1-235F-4737-BD82-DC7CCD282A35}.Release|x86.Build.0 = Release|x86
+		{D5C3436C-A53A-484F-8256-497095526114}.Debug|x86.ActiveCfg = Debug|x86
+		{D5C3436C-A53A-484F-8256-497095526114}.Debug|x86.Build.0 = Debug|x86
+		{D5C3436C-A53A-484F-8256-497095526114}.Release|x86.ActiveCfg = Release|x86
+		{D5C3436C-A53A-484F-8256-497095526114}.Release|x86.Build.0 = Release|x86
+		{1C7685F7-C9B6-4E62-91FA-9EC8BF0ADC70}.Debug|x86.ActiveCfg = Debug|x86
+		{1C7685F7-C9B6-4E62-91FA-9EC8BF0ADC70}.Debug|x86.Build.0 = Debug|x86
+		{1C7685F7-C9B6-4E62-91FA-9EC8BF0ADC70}.Release|x86.ActiveCfg = Release|x86
+		{1C7685F7-C9B6-4E62-91FA-9EC8BF0ADC70}.Release|x86.Build.0 = Release|x86
+		{8ED5DE46-F284-4961-B5A9-F49C66D29843}.Debug|x86.ActiveCfg = Debug|x86
+		{8ED5DE46-F284-4961-B5A9-F49C66D29843}.Debug|x86.Build.0 = Debug|x86
+		{8ED5DE46-F284-4961-B5A9-F49C66D29843}.Release|x86.ActiveCfg = Release|x86
+		{8ED5DE46-F284-4961-B5A9-F49C66D29843}.Release|x86.Build.0 = Release|x86
+		{567C3A2D-10A6-4F0C-8738-7B4F6DEE555B}.Debug|x86.ActiveCfg = Debug|x86
+		{567C3A2D-10A6-4F0C-8738-7B4F6DEE555B}.Debug|x86.Build.0 = Debug|x86
+		{567C3A2D-10A6-4F0C-8738-7B4F6DEE555B}.Release|x86.ActiveCfg = Release|x86
+		{567C3A2D-10A6-4F0C-8738-7B4F6DEE555B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

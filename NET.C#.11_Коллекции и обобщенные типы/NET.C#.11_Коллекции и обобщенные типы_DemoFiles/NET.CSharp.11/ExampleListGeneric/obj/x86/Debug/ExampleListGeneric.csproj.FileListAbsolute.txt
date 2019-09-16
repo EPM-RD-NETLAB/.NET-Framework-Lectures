@@ -1,0 +1,10 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\ExampleListGeneric\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\ExampleListGeneric\bin\Debug\ExampleListGeneric.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\ExampleListGeneric\bin\Debug\ExampleListGeneric.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\ExampleListGeneric\obj\x86\Debug\ExampleListGeneric.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\ExampleListGeneric\obj\x86\Debug\ExampleListGeneric.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\ExampleListGeneric\bin\Debug\ExampleListGeneric.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\ExampleListGeneric\bin\Debug\ExampleListGeneric.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\ExampleListGeneric\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.11\ExampleListGeneric\obj\x86\Debug\ExampleListGeneric.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\ExampleListGeneric\obj\x86\Debug\ExampleListGeneric.pdb

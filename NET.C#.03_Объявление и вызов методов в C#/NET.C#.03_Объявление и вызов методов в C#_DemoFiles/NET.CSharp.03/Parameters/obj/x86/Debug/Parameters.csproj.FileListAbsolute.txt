@@ -1,0 +1,14 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\Parameters\bin\Debug\Parameters.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\Parameters\bin\Debug\Parameters.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\Parameters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\Parameters\bin\Debug\Parameters.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\Parameters\bin\Debug\Parameters.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\Parameters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.03_Объявление и вызов методов в C#\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.03_Объявление и вызов методов в C#\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.03_Объявление и вызов методов в C#\NET.C#.03_Объявление и вызов методов в C#_DemoFiles\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.03_Объявление и вызов методов в C#\NET.C#.03_Объявление и вызов методов в C#_DemoFiles\NET.CSharp.03\Parameters\obj\x86\Debug\Parameters.pdb

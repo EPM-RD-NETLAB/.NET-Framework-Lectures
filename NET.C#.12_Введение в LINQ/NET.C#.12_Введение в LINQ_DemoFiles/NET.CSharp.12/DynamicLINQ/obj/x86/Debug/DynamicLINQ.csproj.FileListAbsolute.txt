@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\DynamicLINQ\bin\Debug\DynamicLINQ.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\DynamicLINQ\bin\Debug\DynamicLINQ.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\DynamicLINQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\DynamicLINQ\obj\x86\Debug\DynamicLINQ.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\DynamicLINQ\obj\x86\Debug\DynamicLINQ.pdb

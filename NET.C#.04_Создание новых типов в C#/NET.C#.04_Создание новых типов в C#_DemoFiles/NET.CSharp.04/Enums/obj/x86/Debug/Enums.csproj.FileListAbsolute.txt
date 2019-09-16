@@ -1,0 +1,17 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\Enums\bin\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\Enums\bin\Debug\Enums.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\Enums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\Enums\obj\x86\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\Enums\obj\x86\Debug\Enums.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\Enums\bin\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\Enums\bin\Debug\Enums.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\Enums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\Enums\obj\x86\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\Enums\obj\x86\Debug\Enums.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Enums\obj\x86\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Enums\obj\x86\Debug\Enums.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Enums\bin\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Enums\bin\Debug\Enums.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Enums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.C#.04_Создание новых типов в C#_DemoFiles\NET.CSharp.04\Enums\obj\x86\Debug\Enums.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.C#.04_Создание новых типов в C#_DemoFiles\NET.CSharp.04\Enums\obj\x86\Debug\Enums.pdb

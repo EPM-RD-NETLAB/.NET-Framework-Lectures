@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]NUnitTest" Expanded="true" />
+    <Node UniqueName="[0-1000]NUnitTest.ClassTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,12 @@
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\bin\Debug\GenericsMethodsDemo.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\bin\Debug\GenericsMethodsDemo.pdb
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\obj\x86\Debug\GenericsMethodsDemo.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\obj\x86\Debug\GenericsMethodsDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\bin\Debug\GenericsMethodsDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\bin\Debug\GenericsMethodsDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\obj\x86\Debug\GenericsMethodsDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 12\DemoFilesModule12\GenericsMethodsDemo\obj\x86\Debug\GenericsMethodsDemo.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\GenericsMethodsDemo\obj\x86\Debug\GenericsMethodsDemo.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\GenericsMethodsDemo\obj\x86\Debug\GenericsMethodsDemo.pdb

@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\NestedTryBlock\bin\Debug\NestedTryBlock.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\NestedTryBlock\bin\Debug\NestedTryBlock.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\NestedTryBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\NestedTryBlock\obj\x86\Debug\NestedTryBlock.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\NestedTryBlock\obj\x86\Debug\NestedTryBlock.pdb

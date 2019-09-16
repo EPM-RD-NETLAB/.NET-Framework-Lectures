@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\NET.CSharp.04\HouseSystem\bin\Debug\HouseSystem.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\HouseSystem\bin\Debug\HouseSystem.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\HouseSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.04\HouseSystem\obj\x86\Debug\HouseSystem.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\HouseSystem\obj\x86\Debug\HouseSystem.pdb

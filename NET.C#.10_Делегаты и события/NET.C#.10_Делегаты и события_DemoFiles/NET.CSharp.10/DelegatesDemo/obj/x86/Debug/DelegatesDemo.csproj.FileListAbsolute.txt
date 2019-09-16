@@ -1,0 +1,17 @@
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\obj\x86\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\obj\x86\Debug\DelegatesDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\obj\x86\Debug\DelegatesDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\DelegatesDemo\obj\x86\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\DelegatesDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\DelegatesDemo\DelegatesDemo\obj\x86\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\DelegatesDemo\obj\x86\Debug\DelegatesDemo.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.10_Делегаты и события\NET.C#.10_Делегаты и события_DemoFiles\NET.CSharp.10\DelegatesDemo\obj\x86\Debug\DelegatesDemo.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.10_Делегаты и события\NET.C#.10_Делегаты и события_DemoFiles\NET.CSharp.10\DelegatesDemo\obj\x86\Debug\DelegatesDemo.pdb

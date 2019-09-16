@@ -1,0 +1,17 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\DynamicType\bin\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\DynamicType\bin\Debug\DynamicType.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\DynamicType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\DynamicType\obj\x86\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\DynamicType\obj\x86\Debug\DynamicType.pdb
+C:\Users\anzhelika\Desktop\NET.C#.06.Creating new types in C#\NET#.06.Creating new types in C#_DemoFiles\DynamicType\obj\x86\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\NET.C#.06.Creating new types in C#\NET#.06.Creating new types in C#_DemoFiles\DynamicType\obj\x86\Debug\DynamicType.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\DynamicType\obj\x86\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\DynamicType\obj\x86\Debug\DynamicType.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\DynamicType\bin\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\DynamicType\bin\Debug\DynamicType.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\DynamicType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.04\DynamicType\bin\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\DynamicType\bin\Debug\DynamicType.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\DynamicType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.04\DynamicType\obj\x86\Debug\DynamicType.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\DynamicType\obj\x86\Debug\DynamicType.pdb

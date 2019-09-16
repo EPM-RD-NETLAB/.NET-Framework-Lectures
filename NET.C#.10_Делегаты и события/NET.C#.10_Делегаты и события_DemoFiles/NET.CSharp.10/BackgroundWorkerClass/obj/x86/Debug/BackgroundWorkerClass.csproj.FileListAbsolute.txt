@@ -1,0 +1,20 @@
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\bin\Debug\BackgroundWorkerClass.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\bin\Debug\BackgroundWorkerClass.pdb
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.Form1.resources
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Threads\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\bin\Debug\BackgroundWorkerClass.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\bin\Debug\BackgroundWorkerClass.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.Form1.resources
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\BackgroundWorkerClass.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\DelegatesDemo\BackgroundWorkerClass\obj\x86\Debug\GenerateResource.write.1.tlog

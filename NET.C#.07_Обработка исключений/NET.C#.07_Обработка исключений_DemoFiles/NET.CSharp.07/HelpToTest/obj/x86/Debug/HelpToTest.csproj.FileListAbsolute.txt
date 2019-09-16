@@ -1,0 +1,7 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\HelpToTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\HelpToTest\bin\Debug\HelpToTest.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\HelpToTest\bin\Debug\HelpToTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\HelpToTest\obj\x86\Debug\HelpToTest.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\HelpToTest\obj\x86\Debug\HelpToTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.04_Exception handling\NET.CSharp.04\HelpToTest\obj\x86\Debug\HelpToTest.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# Final\NET.C#.04_Exception handling\NET.CSharp.04\HelpToTest\obj\x86\Debug\HelpToTest.pdb

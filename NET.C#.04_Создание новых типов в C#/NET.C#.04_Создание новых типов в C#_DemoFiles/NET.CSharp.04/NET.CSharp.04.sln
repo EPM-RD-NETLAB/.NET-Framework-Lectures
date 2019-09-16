@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseSystem", "HouseSystem\HouseSystem.csproj", "{D2C0B6B2-B902-42BE-9C5C-94225CC42812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicType", "DynamicType\DynamicType.csproj", "{30642FDF-B122-414B-838D-C7BECD1EF433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{268A6642-E69B-4F25-A8BC-65269974A218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields", "Fields\Fields.csproj", "{D6145F7F-EF54-4975-9912-64E1534E6AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueTypes", "NullableValueTypes\NullableValueTypes.csproj", "{49B0776A-F70B-46EF-95A9-F64B5166EDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveReferenceValueTypes", "PrimitiveReferenceValueTypes\PrimitiveReferenceValueTypes.csproj", "{9E266B52-6E47-4010-BC16-0B5F8D0A307D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C0B6B2-B902-42BE-9C5C-94225CC42812}.Debug|x86.ActiveCfg = Debug|x86
+		{D2C0B6B2-B902-42BE-9C5C-94225CC42812}.Debug|x86.Build.0 = Debug|x86
+		{D2C0B6B2-B902-42BE-9C5C-94225CC42812}.Release|x86.ActiveCfg = Release|x86
+		{D2C0B6B2-B902-42BE-9C5C-94225CC42812}.Release|x86.Build.0 = Release|x86
+		{30642FDF-B122-414B-838D-C7BECD1EF433}.Debug|x86.ActiveCfg = Debug|x86
+		{30642FDF-B122-414B-838D-C7BECD1EF433}.Debug|x86.Build.0 = Debug|x86
+		{30642FDF-B122-414B-838D-C7BECD1EF433}.Release|x86.ActiveCfg = Release|x86
+		{30642FDF-B122-414B-838D-C7BECD1EF433}.Release|x86.Build.0 = Release|x86
+		{268A6642-E69B-4F25-A8BC-65269974A218}.Debug|x86.ActiveCfg = Debug|x86
+		{268A6642-E69B-4F25-A8BC-65269974A218}.Debug|x86.Build.0 = Debug|x86
+		{268A6642-E69B-4F25-A8BC-65269974A218}.Release|x86.ActiveCfg = Release|x86
+		{268A6642-E69B-4F25-A8BC-65269974A218}.Release|x86.Build.0 = Release|x86
+		{D6145F7F-EF54-4975-9912-64E1534E6AC0}.Debug|x86.ActiveCfg = Debug|x86
+		{D6145F7F-EF54-4975-9912-64E1534E6AC0}.Debug|x86.Build.0 = Debug|x86
+		{D6145F7F-EF54-4975-9912-64E1534E6AC0}.Release|x86.ActiveCfg = Release|x86
+		{D6145F7F-EF54-4975-9912-64E1534E6AC0}.Release|x86.Build.0 = Release|x86
+		{49B0776A-F70B-46EF-95A9-F64B5166EDAD}.Debug|x86.ActiveCfg = Debug|x86
+		{49B0776A-F70B-46EF-95A9-F64B5166EDAD}.Debug|x86.Build.0 = Debug|x86
+		{49B0776A-F70B-46EF-95A9-F64B5166EDAD}.Release|x86.ActiveCfg = Release|x86
+		{49B0776A-F70B-46EF-95A9-F64B5166EDAD}.Release|x86.Build.0 = Release|x86
+		{9E266B52-6E47-4010-BC16-0B5F8D0A307D}.Debug|x86.ActiveCfg = Debug|x86
+		{9E266B52-6E47-4010-BC16-0B5F8D0A307D}.Debug|x86.Build.0 = Debug|x86
+		{9E266B52-6E47-4010-BC16-0B5F8D0A307D}.Release|x86.ActiveCfg = Release|x86
+		{9E266B52-6E47-4010-BC16-0B5F8D0A307D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

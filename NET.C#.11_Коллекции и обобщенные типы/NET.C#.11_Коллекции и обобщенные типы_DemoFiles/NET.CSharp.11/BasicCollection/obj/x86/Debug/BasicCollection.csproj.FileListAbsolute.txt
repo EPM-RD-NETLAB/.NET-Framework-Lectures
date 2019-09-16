@@ -1,0 +1,10 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\BasicCollection\bin\Debug\BasicCollection.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\BasicCollection\bin\Debug\BasicCollection.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\BasicCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\BasicCollection\obj\x86\Debug\BasicCollection.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\BasicCollection\obj\x86\Debug\BasicCollection.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\BasicCollection\bin\Debug\BasicCollection.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\BasicCollection\bin\Debug\BasicCollection.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\BasicCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.11\BasicCollection\obj\x86\Debug\BasicCollection.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\BasicCollection\obj\x86\Debug\BasicCollection.pdb

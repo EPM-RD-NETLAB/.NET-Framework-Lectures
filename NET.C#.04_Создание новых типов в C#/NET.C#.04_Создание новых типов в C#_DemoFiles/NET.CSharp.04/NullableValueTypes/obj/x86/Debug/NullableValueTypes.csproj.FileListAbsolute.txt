@@ -1,0 +1,15 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\NullableValueTypes\bin\Debug\NullableValueTypes.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\NullableValueTypes\bin\Debug\NullableValueTypes.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\NullableValueTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\NullableValueTypes\obj\x86\Debug\NullableValueTypes.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 17-03-2011\Module 6\Module 6\NullableValueTypes\obj\x86\Debug\NullableValueTypes.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\NullableValueTypes\bin\Debug\NullableValueTypes.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\NullableValueTypes\bin\Debug\NullableValueTypes.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\NullableValueTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\NullableValueTypes\obj\x86\Debug\NullableValueTypes.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.04_Создание новых типов в C#\NET.CSharp.06\NullableValueTypes\obj\x86\Debug\NullableValueTypes.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\NullableValueTypes\bin\Debug\NullableValueTypes.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\NullableValueTypes\bin\Debug\NullableValueTypes.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\NullableValueTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.04\NullableValueTypes\obj\x86\Debug\NullableValueTypes.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\NullableValueTypes\obj\x86\Debug\NullableValueTypes.pdb

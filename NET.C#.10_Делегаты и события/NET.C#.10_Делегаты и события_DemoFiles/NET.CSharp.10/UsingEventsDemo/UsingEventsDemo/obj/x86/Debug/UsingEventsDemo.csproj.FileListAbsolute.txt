@@ -1,0 +1,78 @@
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.baml
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.g.cs
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\App.g.cs
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo_MarkupCompile.cache
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.g.resources
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.Properties.Resources.resources
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.exe
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.pdb
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.exe
+E:\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\App.g.cs
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo_MarkupCompile.cache
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.g.resources
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\App.g.cs
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo_MarkupCompile.cache
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.g.resources
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\Trainings\Готовые модули\Demofiles\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\App.g.cs
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo_MarkupCompile.cache
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.g.resources
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\App.g.cs
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo_MarkupCompile.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.g.resources
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\Mod11\Demo1\Solution\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\bin\Debug\UsingEventsDemo.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\App.g.cs
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo_MarkupCompile.cache
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.g.resources
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\UsingEventsDemo\UsingEventsDemo\obj\x86\Debug\UsingEventsDemo.pdb

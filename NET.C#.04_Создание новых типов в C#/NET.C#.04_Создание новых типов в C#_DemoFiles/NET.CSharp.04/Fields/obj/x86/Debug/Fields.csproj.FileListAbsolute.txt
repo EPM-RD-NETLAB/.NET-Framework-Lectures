@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Fields\bin\Debug\Fields.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Fields\bin\Debug\Fields.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Fields\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Fields\obj\x86\Debug\Fields.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.04\Fields\obj\x86\Debug\Fields.pdb

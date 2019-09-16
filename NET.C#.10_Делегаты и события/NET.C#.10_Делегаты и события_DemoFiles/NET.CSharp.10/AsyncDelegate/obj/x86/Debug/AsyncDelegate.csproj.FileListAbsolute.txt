@@ -1,0 +1,15 @@
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+C:\Users\anzhelika\Desktop\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 28-03-2011\Module 11\DelegatesDemo\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+C:\Users\anzhelika\Desktop\DelegatesDemo\AsyncDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\DelegatesDemo\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+C:\Users\anzhelika\Desktop\DelegatesDemo\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb

@@ -1,0 +1,31 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="779CB7F7-A839-4CAF-8A28-FADB13BF7D39/f:SalaryDetails.txt" caret="0" fromTop="0" />
+      <File id="779CB7F7-A839-4CAF-8A28-FADB13BF7D39/f:Employee.cs" caret="938" fromTop="20" />
+      <File id="779CB7F7-A839-4CAF-8A28-FADB13BF7D39/f:Program.cs" caret="269" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="779CB7F7-A839-4CAF-8A28-FADB13BF7D39/f:Employee.cs" caret="215" fromTop="9" />
+      <File id="779CB7F7-A839-4CAF-8A28-FADB13BF7D39/f:Employee.cs" caret="536" fromTop="17" />
+      <File id="779CB7F7-A839-4CAF-8A28-FADB13BF7D39/f:Employee.cs" caret="938" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,18 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\bin\Debug\ClassForUnitTest.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\bin\Debug\ClassForUnitTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\obj\Debug\NUnitTest.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.CSharp.03\NUnitTest\obj\Debug\NUnitTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\NUnitTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\ClassForUnitTest.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\ClassForUnitTest.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\obj\Debug\NUnitTest.dll
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.03.Declaring and callind mathods\NET.C#.03.Declaring and calling methods_DemoFiles\NET.CSharp.03\NUnitTest\obj\Debug\NUnitTest.pdb

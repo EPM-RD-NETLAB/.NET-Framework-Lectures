@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\UserManagement\bin\Debug\UserManagement.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\UserManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\UserManagement\obj\x86\Debug\UserManagement.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.CSharp.04\UserManagement\obj\x86\Debug\UserManagement.pdb

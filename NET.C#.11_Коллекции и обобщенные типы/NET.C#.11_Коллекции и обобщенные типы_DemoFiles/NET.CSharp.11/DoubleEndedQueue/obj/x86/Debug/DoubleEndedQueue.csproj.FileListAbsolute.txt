@@ -1,0 +1,12 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\DoubleEndedQueue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\DoubleEndedQueue\bin\Debug\DoubleEndedQueue.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\DoubleEndedQueue\bin\Debug\DoubleEndedQueue.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\DoubleEndedQueue\obj\x86\Debug\DoubleEndedQueue.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 13\Mudule 13\DoubleEndedQueue\obj\x86\Debug\DoubleEndedQueue.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\DoubleEndedQueue\obj\x86\Debug\DoubleEndedQueue.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\DoubleEndedQueue\obj\x86\Debug\DoubleEndedQueue.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\DoubleEndedQueue\bin\Debug\DoubleEndedQueue.exe
+C:\Users\anzhelika\Desktop\NET.CSharp.11\DoubleEndedQueue\bin\Debug\DoubleEndedQueue.pdb
+C:\Users\anzhelika\Desktop\NET.CSharp.11\DoubleEndedQueue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.11_Коллекции и обобщенные типы\NET.C#.11_Коллекции и обобщенные типы_DemoFiles\NET.CSharp.11\DoubleEndedQueue\obj\x86\Debug\DoubleEndedQueue.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.11_Коллекции и обобщенные типы\NET.C#.11_Коллекции и обобщенные типы_DemoFiles\NET.CSharp.11\DoubleEndedQueue\obj\x86\Debug\DoubleEndedQueue.pdb

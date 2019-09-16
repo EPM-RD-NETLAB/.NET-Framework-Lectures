@@ -1,0 +1,11 @@
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\bin\Debug\Lesson 2.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\bin\Debug\Lesson 1.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\bin\Debug\Lesson 1.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\obj\x86\Debug\Lesson 2.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Module 14\Lesson 2\obj\x86\Debug\Lesson 2.pdb
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Demo Module 14\Lesson 2\obj\x86\Debug\Lesson 2.exe
+C:\Users\anzhelika\Desktop\Trainings\Training ASP.NET 31-03-2011\Module 14\Demo Module 14\Lesson 2\obj\x86\Debug\Lesson 2.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.14_Введение в LINQ\Demo Module 14\Lesson 2\obj\x86\Debug\Lesson 2.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.14_Введение в LINQ\Demo Module 14\Lesson 2\obj\x86\Debug\Lesson 2.pdb
