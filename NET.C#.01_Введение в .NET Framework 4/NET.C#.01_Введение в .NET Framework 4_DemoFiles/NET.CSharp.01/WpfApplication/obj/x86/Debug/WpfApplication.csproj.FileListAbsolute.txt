@@ -1,0 +1,19 @@
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\App.g.cs
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication.g.resources
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.01_Введение в .NET Framework 4\NET#.01_Введение в .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.01_Введение в .NET Framework 4\NET#.01_Введение в .NET Framework 4_DemoFiles\Module 1\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.01_Введение в .NET Framework 4\NET#.01_Введение в .NET Framework 4_DemoFiles\NET.CSharp.01\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C#\NET.C#.01_Введение в .NET Framework 4\NET#.01_Введение в .NET Framework 4_DemoFiles\NET.CSharp.01\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.01_Введение в .NET Framework 4\NET#.01_Введение в .NET Framework 4_DemoFiles\NET.CSharp.01\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Users\anzhelika\Desktop\Training course .NET.C# for EPAM\NET.C#.01_Введение в .NET Framework 4\NET#.01_Введение в .NET Framework 4_DemoFiles\NET.CSharp.01\WpfApplication\obj\x86\Debug\WpfApplication.pdb

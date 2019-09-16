@@ -1,0 +1,5 @@
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\anzhelika\Desktop\NET.C#.01.Introduction to the .NET Framework 4\NET#.01.Introduction to the .NET Framework 4_DemoFiles\Module 1\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
